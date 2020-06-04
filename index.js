@@ -21,7 +21,6 @@ var momoirocloverz = function() {
     this.kanako = new Member("Kanako", "Momota", new Date(1994, 7, 12), "AB", "静岡県", "red");
     this.ayaka =  new Member("Ayaka", "Sasaki", new Date(1996, 6, 11), "AB", "神奈川県", "pink");
     this.shiori =  new Member("Shiori", "Tamai", new Date(1995, 6, 4), "A", "神奈川県", "yellow");
-    this.momoka = new Member("Momoka", "Ariyasu", new Date(1995, 3, 15), "A", "埼玉県", "green");
     this.reni = new Member("Reni", "Takagi", new Date(1993, 6, 21), "O", "神奈川県", "purple");
     this.members = [this.kanako, this.ayaka, this.shiori, this.momoka, this.reni];
 };
